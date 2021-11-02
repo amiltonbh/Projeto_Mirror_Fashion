@@ -1,7 +1,3 @@
-<h1 align="center">
-    <img alt="mirror-fashion" title="#mirror-fashion" src="/img/tela-home-2.jpg"/>
-</h1>
-
 <h4 align="center"> 
     🚧 Site Mirror Fashion  🚀 em construção... 🚧
 </h4> 
@@ -28,16 +24,6 @@ O desafio é exemplicar a rotina do desenvolvedor front-end que recebe o design 
 
 Uma aplicação responsiva com as tecnologias fundamentais do desenvolvimento web.
 
-### Web - v1.0
-
-<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="mirror-fashion" title="#mirror-fashion" src="/img/tela-home-2.jpg" width="400px">
-  <img alt="mirror-fashion" title="#mirror-fashion" src="/img/tela-home-1.jpg" width="400px">
-  <img alt="mirror-fashion" title="#mirror-fashion" src="/img/tela-produto.jpg" width="400px">
-  <img alt="mirror-fashion" title="#mirror-fashion" src="/img/tela-about.jpg" width="400px">
-  <img alt="mirror-fashion" title="#mirror-fashion" src="/img/tela-checkout.jpg" width="400px">
-</p>
-
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -48,7 +34,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Git][git]
 - [Github][github] 
 
-## 🚀 Como executar o projeto
+## 🚀 Forma de execução do projeto
 
 Podemos considerar este projeto como sendo com uma parte:
 1. Front End (pasta web)  
@@ -59,11 +45,11 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com)
 Além disto, é bom ter um editor para trabalhar com o código como [VSCode][vscode]
 
-### 🧭 Rodando a aplicação web (Front End)
+### 🧭 Rodando toda a aplicação web (Front End)
 
 ```bash 
 # Clone este repositório
-$ git clone https://github.com/
+$ git clone https://github.com/Mirror-Fashion/Projeto_Mirror_Fashion.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd mirror-fashion
