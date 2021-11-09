@@ -1,0 +1,27 @@
+body{
+  background-color: linear-gradient(#4d4946, #c9c9c9);
+}
+
+.second-container{
+  width: 450px;
+  margin: 10%;
+  padding: 25px;
+  background-image: url("../img/fundo-rodape.png");
+  position: relative;
+  left: 20%;
+  top: 10%;
+  border-radius: 25px;
+}
+
+input{
+  width: 280px;
+  display: block;
+  border-radius: 10px;
+}
+
+button{
+  position: relative;
+  left: 50px;
+  top: 15px;
+  margin: 15px;
+}
